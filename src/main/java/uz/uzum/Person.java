@@ -1,4 +1,5 @@
-package uz.uzum.model;
+
+package uz.uzum;
 
 import lombok.*;
 

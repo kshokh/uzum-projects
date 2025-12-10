@@ -1,9 +1,7 @@
-package uz.uzum.controller;
+package uz.uzum;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import uz.uzum.model.Person;
-import uz.uzum.service.BillSplitterService;
 
 import java.util.List;
 

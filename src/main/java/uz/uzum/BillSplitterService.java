@@ -1,8 +1,6 @@
-package uz.uzum.service;
+package uz.uzum;
 
 import org.springframework.stereotype.Service;
-import uz.uzum.model.Dish;
-import uz.uzum.model.Person;
 
 import java.util.List;
 
